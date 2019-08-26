@@ -1,2 +1,2 @@
-# DreamTime
-DreamTime
+# dl-tsc
+Deep learning for time series classification 
