@@ -193,12 +193,12 @@ elif sys.argv[1] == 'plot_results':
 
     df_results.reset_index(inplace=True)
 
-    split_ons = ['use_bottleneck', 'use_residual', 'ts_n', 'depth',
+    split_ons = ['use_bottleneck', 'use_residual', 'ts_n',
                  'filters', 'nb_classes']
-    split_values = [True, True, 128, 1, 32, 2]
+    split_values = [True, True, 128, 32, 2]
 
     x_label = 'ts_len'
-    y_label = 'kernel_size'
+    y_label = 'RF'
     z_label = 'accuracy'
 
     # add the receptive field value
