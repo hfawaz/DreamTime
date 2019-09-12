@@ -1,5 +1,5 @@
 # DreamTime: Finding AlexNet for Time Series Classification
-This is the companion repository for our paper titled "DreamTime: Finding AlexNet for Time Series Classification" available on [ArXiv](#). 
+This is the companion repository for our paper titled "DreamTime: Finding AlexNet for Time Series Classification" available on [ArXiv](https://arxiv.org/pdf/1909.04939.pdf). 
 
 ## Inception module
 ![inception module](https://github.com/hfawaz/DreamTime/blob/master/pngs/inception-module.png)
