@@ -125,7 +125,7 @@ unity-scope-zotero==0.1
 urllib3==1.24.2
 usb-creator==0.3.0
 virtualenv==15.0.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 xdiagnose==3.8.4.1
 xkit==0.0.0
 xlrd==1.1.0
